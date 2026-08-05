@@ -1,0 +1,258 @@
+{
+ "T10": {
+  "fair": "Substantive treatment of bias/fairness across chapters (P7003 on bias)",
+  "explain": "Discoverability of decision basis at principle level; not a method",
+  "priv": "Data Agency + personal-data protection; privacy-protective",
+  "sec": "Dependability + awareness-of-misuse touch safety",
+  "AG": "Awareness-of-misuse + ethical impact evaluation; not a formal risk register",
+  "SI": "Human rights/well-being + stakeholder-analysis methods identify affected parties"
+ },
+ "T29": {
+  "fair": "Fairness/bias monitoring (disparate impact)",
+  "explain": "Explainability via factsheets/OpenScale",
+  "priv": "PII detection/protection",
+  "sec": "Toxicity/hate/abuse/hallucination detection + prompt-injection monitoring",
+  "AG": "Risk assessment, risk scorecards, thresholds and Risk Atlas",
+  "SI": "Fairness monitoring across groups + risk classification identify affected groups"
+ },
+ "T21": {
+  "fair": "Fair with harmful bias managed (systemic, computational, human-cognitive)",
+  "explain": "Explainable & interpretable characteristic",
+  "priv": "Privacy-enhanced characteristic",
+  "sec": "Safe + secure & resilient characteristics",
+  "AG": "The entire framework is AI risk management (MAP/MEASURE/MANAGE)",
+  "SI": "MAP identifies stakeholders and impacts on individuals/groups/society"
+ },
+ "T14": {
+  "fair": "Prompts on bias and under-representation",
+  "explain": "Prompts on communicating/openness",
+  "priv": "Prompts on data permission/consent and sensitivities",
+  "sec": "Prompts on minimising harm",
+  "AG": "Identifies ethical risks; not a formal risk process",
+  "SI": "Prompts who could be negatively affected"
+ },
+ "T22": {
+  "fair": "Diversity, Non-discrimination & Fairness",
+  "explain": "Transparency requirement covers explicability",
+  "priv": "Privacy & Data Governance requirement",
+  "sec": "Technical Robustness & Safety (resilience to attack, fallback, safety)",
+  "AG": "Helps identify risks/gaps and minimise them; risk-management orientation",
+  "SI": "Identifies impacts on individuals and society (Societal & Environmental Well-being)"
+ },
+ "T17": {
+  "fair": "Targets bias-free AI; prevents discrimination",
+  "explain": "Communications dimension",
+  "priv": "Governance & security dimension",
+  "sec": "Governance & security dimension",
+  "AG": "Identifies risk areas to prevent errors/biases",
+  "SI": "Relevant actors + affected communities"
+ },
+ "T07": {
+  "fair": "Deepest fairness/bias coverage of any toolkit in the set",
+  "explain": "Explainability is a separate IBM toolkit (AIX360)",
+  "priv": "Privacy not addressed",
+  "sec": "Safety not addressed",
+  "AG": "Fairness metrics quantify bias risk; not a formal risk process",
+  "SI": "Requires defining protected attributes and privileged/unprivileged groups"
+ },
+ "T19": {
+  "fair": "Bias & Fairness is a core dimension",
+  "explain": "Interpretability & Explainability is a core dimension",
+  "priv": "Data privacy + security",
+  "sec": "Safety, security and robustness",
+  "AG": "Risk & controls framework across the AI journey",
+  "SI": "Assesses fair treatment of individuals/groups; not a structured stakeholder map"
+ },
+ "T23": {
+  "fair": "Bias checks and fairness controls",
+  "explain": "AI policy/controls address explainability",
+  "priv": "Data controls and governance",
+  "sec": "Incident response + risk controls touch safety; not a safety method",
+  "AG": "Clause 6 risk assessment + treatment + impact assessment",
+  "SI": "Impact assessment identifies affected people; \"affected party\" actor role"
+ },
+ "T01": {
+  "fair": "Fairness is a central MS AI principle exercised in Judgment Call (OECD)",
+  "explain": "Model explainability not addressed",
+  "priv": "Privacy & security principle; product examples emphasise privacy and consent",
+  "sec": "Harms Modeling is a safety/harm-anticipation framework",
+  "AG": "Harms Modeling is an informal, design-stage risk-identification method",
+  "SI": "Judgment Call personas + Harms Modeling identify impacted individuals/groups"
+ },
+ "T25": {
+  "fair": "Three fairness goals with concrete assessment/mitigation recommendations",
+  "explain": "Transparency T1 intelligibility + InterpretML recommendations",
+  "priv": "Privacy & Security goals",
+  "sec": "Reliability & Safety goals (reliable/safe operation, remediation)",
+  "AG": "Impact assessment + Sensitive Uses process identify and manage risk",
+  "SI": "Impact assessment identifies stakeholders and people impacted by the system"
+ },
+ "T04": {
+  "fair": "Can surface discriminatory consequences; not a fairness/bias method",
+  "explain": "Explainability not addressed",
+  "priv": "Privacy not specifically addressed",
+  "sec": "Risk-assesses and mitigates potential harms; not a safety method",
+  "AG": "Structured examine/debate/risk-assess/mitigate of consequences with a prioritisation matrix",
+  "SI": "Identifies affected society/communities when scanning consequences"
+ },
+ "T20": {
+  "fair": "Algorithmic-bias risk zone",
+  "explain": "User-understanding risk zone",
+  "priv": "Surveillance + data-control risk zones",
+  "sec": "Hateful/criminal-actor risk zone touches safety",
+  "AG": "A structured risk-anticipation toolkit (8 risk zones)",
+  "SI": "Identifies risks to users, communities and society"
+ },
+ "T27": {
+  "fair": "Bias/fairness testing + mitigation (group and individual fairness)",
+  "explain": "Explainability testing + explainability metrics in the open-source library",
+  "priv": "Privacy/PII-leak testing",
+  "sec": "Safety: toxicity, hallucination, jailbreak, prompt-injection and adversarial testing",
+  "AG": "Risk assessment/scores + risk classification across 40+ tests",
+  "SI": "Risk assessment + EU AI Act classification identify affected use cases/stakeholders"
+ },
+ "T30": {
+  "fair": "Annex A fairness + bias-mitigation techniques",
+  "explain": "Explainability required (links to Explaining Decisions); toolkit itself DP-focused",
+  "priv": "Core: data protection/privacy",
+  "sec": "Security principle (integrity & confidentiality); not broader safety",
+  "AG": "Core: a risk toolkit (risk statements + inherent/residual ratings)",
+  "SI": "Identifies risks to affected individuals\u2019 rights and freedoms"
+ },
+ "T05": {
+  "fair": "Disaggregated & intersectional evaluation across groups (fairness parity metrics)",
+  "explain": "Clarifies model behaviour/performance; not decision explainability",
+  "priv": "Privacy not addressed (model-reporting tool)",
+  "sec": "Out-of-scope uses + caveats + ethical risks touch safety; not a safety method",
+  "AG": "Ethical Considerations + caveats surface risks; release after benefit-vs-risk review",
+  "SI": "Factors section identifies relevant demographic/affected groups"
+ },
+ "T03": {
+  "fair": "Surfaces subpopulations & representation to mitigate unwanted bias",
+  "explain": "Data transparency supports explainability indirectly; not decision explainability",
+  "priv": "Collection process covers consent, notification, revocation, confidential/PII data",
+  "sec": "Flags offensive content and high-stakes mismatch risks; not a safety method",
+  "AG": "Surfaces dataset risks (bias, sensitive content); not a formal risk process",
+  "SI": "Composition identifies whether and which people are in the data"
+ },
+ "T06": {
+  "fair": "Collection bias, proxy discrimination, fairness across groups",
+  "explain": "Explicit explainability item",
+  "priv": "Consent, PII limits, data security, right to be forgotten",
+  "sec": "Unintended-use/abuse prevention touches safety; not a safety method",
+  "AG": "Surfaces ethical risks across the lifecycle; not a formal risk process",
+  "SI": "Prompts to identify missing perspectives and affected groups"
+ },
+ "T11": {
+  "fair": "Core: multiple bias/fairness metrics across subgroups",
+  "explain": "Visualises disparities; not model explainability",
+  "priv": "Privacy not addressed",
+  "sec": "Safety not addressed",
+  "AG": "Bias audit identifies fairness risk; not a formal risk process",
+  "SI": "Requires defining protected attributes/subgroups"
+ },
+ "T08": {
+  "fair": "Slice-based fairness analysis + fairness-constrained threshold optimization",
+  "explain": "Core: counterfactuals, partial-dependence and feature-effect exploration",
+  "priv": "Privacy not addressed",
+  "sec": "Probing edge cases/edited inputs touches safety; not a safety method",
+  "AG": "Surfaces fairness/performance risks; not a formal risk process",
+  "SI": "Enables slicing by subgroup but the user defines the features"
+ },
+ "T32": {
+  "fair": "Fairness technical tests (statistical, subgroup)",
+  "explain": "Explainability technical tests",
+  "priv": "Data governance principle",
+  "sec": "Safety + security principles/checks",
+  "AG": "Testing surfaces risks against principles; not a formal risk-management process",
+  "SI": "Identifies stakeholders for reporting; not a structured affected-stakeholder assessment"
+ },
+ "T18": {
+  "fair": "Engages fairness/justice conceptually; not a method",
+  "explain": "Explainability not addressed",
+  "priv": "Privacy not addressed",
+  "sec": "Safety not addressed",
+  "AG": "No risk process",
+  "SI": "Foregrounds overlooked and marginalised voices"
+ },
+ "T24": {
+  "fair": "Addresses algorithmic bias; fairness audits as treatment",
+  "explain": "Addresses opacity/explainability gaps; not an explainability method",
+  "priv": "Addresses data risks; privacy not a dedicated focus",
+  "sec": "Addresses adversarial threats, deactivation thresholds and misuse-prevention",
+  "AG": "Core: a full AI risk-management process (ISO 31000-based)",
+  "SI": "Identifies risks to affected stakeholders"
+ },
+ "T28": {
+  "fair": "Fairness not addressed",
+  "explain": "Explainability not addressed",
+  "priv": "Protects against sensitive-data leakage and training-data extraction",
+  "sec": "Core: security/safety of AI systems (the whole framework)",
+  "AG": "SAIF Risk Self-Assessment + risk map + end-to-end assessment",
+  "SI": "Contextualises risk in business processes; limited affected-stakeholder focus"
+ },
+ "T26": {
+  "fair": "Bias/fairness assessment with statistical bias metrics guidance",
+  "explain": "Assesses explainability as a risk dimension; not an explainability method",
+  "priv": "Privacy risk assessment",
+  "sec": "Assesses security and detects unsafe behaviour/drift",
+  "AG": "Risk register, contextual risk scenarios and continuous risk assessment",
+  "SI": "Impact assessments + context-specific risk scenarios identify affected stakeholders"
+ },
+ "T02": {
+  "fair": "Core fairness principle; Equality Act, bias mitigation",
+  "explain": "Explainability explicitly addressed in plain language to non-experts",
+  "priv": "GDPR, DPIA, data-protection compliance central",
+  "sec": "Harm/discrimination avoidance via fairness; not safety-specific in 2020 version",
+  "AG": "DPIA + Equality Impact Assessment; identify and mitigate project risks",
+  "SI": "Requires defining user need and those most directly affected"
+ },
+ "T12": {
+  "fair": "Assesses fairness, justice, bias and disparate impact",
+  "explain": "Opposes black boxes and enables external review; not an explainability method",
+  "priv": "Privacy/data protection only referenced in scoping",
+  "sec": "Aims to guard against harmful system uses",
+  "AG": "Structured impact/risk assessment of automated decision systems",
+  "SI": "Affected communities are central to the assessment"
+ },
+ "T15": {
+  "fair": "Fairness explanation (unbiased, equitable treatment)",
+  "explain": "Core: explainability of AI decisions",
+  "priv": "Data explanation + GDPR data-protection grounding",
+  "sec": "Safety & performance explanation",
+  "AG": "Considers impacts/safety; not a formal risk process",
+  "SI": "Affected individuals are central"
+ },
+ "T09": {
+  "fair": "Bias requirements throughout procurement",
+  "explain": "Requires explainable outputs as a procurement criterion; not a method",
+  "priv": "Privacy/data-protection requirements",
+  "sec": "Risk assessment + proportionality touch safety",
+  "AG": "Four-level risk-impact framework + risk assessment",
+  "SI": "Risk levels identify affected individuals and communities"
+ },
+ "T13": {
+  "fair": "Bias assessment is a central factor",
+  "explain": "Addresses black-box opacity; not an explainability method",
+  "priv": "Assesses appropriateness of data; limited privacy depth",
+  "sec": "Impact type includes life/safety",
+  "AG": "Core: a risk-management framework with risk scoring",
+  "SI": "Assesses scale (who/how many affected) and impact direction"
+ },
+ "T16": {
+  "fair": "Bias-control: AI must be free from bias or prejudice",
+  "explain": "Transparency/evidence; not an explainability method",
+  "priv": "Governance of data architecture and privacy",
+  "sec": "Requires AI to be safe and trustworthy; safety viewpoint",
+  "AG": "Requires rigorous risk consideration + bias/malfunction detection",
+  "SI": "Considers all potentially affected stakeholders inside and outside"
+ },
+ "T31": {
+  "fair": "Helps characterise bias; not a fairness method",
+  "explain": "Helps characterise explainability; not a method",
+  "priv": "Characterises personal-data use; not a privacy method",
+  "sec": "Characterises deployment in critical sectors requiring oversight; not a safety method",
+  "AG": "Helps characterise risk exposure; not a risk-management process",
+  "SI": "People & Planet dimension identifies individuals and groups affected by the system"
+ }
+}
